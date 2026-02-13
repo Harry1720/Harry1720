@@ -10,7 +10,7 @@
 ###
 
 <p align="left">👨🏼‍🎓 I'm studying at Ho Chi Minh City University of Transport.</p>
-<p align="left">Visit my Course Materials here: <a>https://github.com/Harry1720/Courses_Material</a></p>
+<p align="left">Visit my Course Materials here: <a href="https://github.com/Harry1720/Courses_Material" target="_blank">Courses Material</a></p>
 
 ###
 
@@ -48,13 +48,13 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
