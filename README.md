@@ -11,10 +11,8 @@
 
 <p align="left">👨🏼‍🎓 I'm studying at Ho Chi Minh City University of Transport.</p>
 <p align="left">Visit my Course Materials here: <a href="https://github.com/Harry1720/Courses_Material" target="_blank">Courses Material</a></p>
-
+<p align="left">See my documents & notes: <a href="https://drive.google.com/drive/folders/1ACjklFtte-WBJhS2s8rX_UWNkNIy5fSm?usp=drive_link" target="_blank">My Documents</a></p>
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
@@ -53,7 +51,6 @@
 
 ###
 
-<br clear="both">
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
 ### ✍️ Random Dev Quote
