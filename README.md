@@ -10,8 +10,9 @@
 ###
 
 <p align="left">👨🏼‍🎓 I'm studying at Ho Chi Minh City University of Transport.</p>
-<p align="left">Visit my Course Materials here: <a href="https://github.com/Harry1720/Courses_Material" target="_blank">Courses Material</a></p>
-<p align="left">See my documents & notes: <a href="https://drive.google.com/drive/folders/1ACjklFtte-WBJhS2s8rX_UWNkNIy5fSm?usp=drive_link" target="_blank">My Documents</a></p>
+<p align="left">Visit my Course Materials here: <a href="https://github.com/Harry1720/Courses_Material">Courses Material</a></p>
+<p align="left">See my documents & notes: <a href="https://drive.google.com/drive/folders/1ACjklFtte-WBJhS2s8rX_UWNkNIy5fSm?usp=drive_link">My Documents</a></p>
+
 ###
 
 <div align="left">
@@ -33,12 +34,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/harry4717/" target="_blank">
+  <a href="https://www.facebook.com/harry4717/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="baohuynh4107@gmail.com" target="_blank">
+  <a href="baohuynh4107@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a href="https://www.linkedin.com/in/harrydevbaohuynh/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
