@@ -1,5 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+<p align="center">
+  <img
+    src="mario.gif"
+    alt="Pixel coding workspace"
+    width="100%"
+  />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFBF&center=true&width=1003&lines=Hello!+My+name+is+Harry;I+am+a+Frontend+Developer;I+am+studying+Information+Technology+at+UTH;Be+welcome!)](https://git.io/typing-svg)
 
 
