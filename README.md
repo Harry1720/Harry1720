@@ -8,7 +8,7 @@
   />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFBF&center=true&width=1003&lines=Hello!+My+name+is+Harry;I+am+a+Frontend+Developer;I+am+studying+Information+Technology+at+UTH;Be+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFBF&center=true&width=1003&lines=Hello!+My+Name+Is+Harry;I+Am+A+Frontend+Developer;I+Am+Studying+Information+Technology+At+UTH;Love+Turning+Ideas+Into+Interactive+Web+Applications;Be+welcome!)](https://git.io/typing-svg)
 
 
 <!-- <h2 align="left">Hello👋! My name is Harry and I'm a Frontend Developer.</h2> -->
