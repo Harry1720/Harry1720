@@ -76,7 +76,7 @@
   ![snake gif](https://github.com/Harry1720/Harry1720/blob/output/github-snake-dark.svg)
 </div>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
