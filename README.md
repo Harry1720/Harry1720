@@ -15,29 +15,37 @@
   <!-- <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
-## 👋 About Me
+### 👋 About Me
 
 - Final-year student at Ho Chi Minh City University of Transport. <br>
 - Aspiring Frontend Developer aiming to craft engaging and performant web experiences. <br>
 - Visit My World <a href="https://harry-bao.vercel.app/">Here!</a>
 
+<br/>
 
-## 🔭 What I'm Up To
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="360" height="270" alt="main_image" />
+
+### 🔭 What I'm Up To
 
 - **Learning:** Deepening my knowledge in Advanced React patterns, and Web Performance.
 - **Goals:** Wrapping up my final university subjects and stepping into a Frontend Internship.
 - **Fun fact:** Leveling up my English skills daily to become a global developer!
 
-## 📚 My Resources
+<br/>
+
+### 📚 My Resources
 
 - Course Materials: <a href="https://github.com/Harry1720/Courses_Material">Courses Material</a></p>
 - My Documents & Notes: <a href="https://drive.google.com/drive/folders/1ACjklFtte-WBJhS2s8rX_UWNkNIy5fSm?usp=drive_link">My Documents</a></p>
 
-## 💻 Tech Stack
+<br/>
+
+### 💻 Tech Stack
+
 <div align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
@@ -57,8 +65,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
 </div>
+<br/>
 
-## 📬 Let's Connect!
+### 📬 Let's Connect!
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100085634621904">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -71,12 +80,14 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
   
   ![snake gif](https://github.com/Harry1720/Harry1720/blob/output/github-snake-dark.svg)
 </div>
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
