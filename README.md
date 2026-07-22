@@ -27,7 +27,7 @@
 
 - Final-year student at Ho Chi Minh City University of Transport. <br>
 - Aspiring Frontend Developer aiming to craft engaging and performant web experiences. <br>
-- Visit My World <a href="https://harry-bao.vercel.app/">Here!</a>
+- Visit My World at: [https://harrybao.is-a.dev](https://harrybao.is-a.dev/)
 
 <br/>
 
