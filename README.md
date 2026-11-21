@@ -43,6 +43,7 @@
 
 ### 📚 My Resources
 
+- Visit my learning hub: <a href="https://learn-with-harry.vercel.app/">HarryHub</a></p>
 - Course Materials: <a href="https://github.com/Harry1720/Courses_Material">Courses Material</a></p>
 - My Documents & Notes: <a href="https://drive.google.com/drive/folders/1ACjklFtte-WBJhS2s8rX_UWNkNIy5fSm?usp=drive_link">My Documents</a></p>
 
